@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_status_options">
+        <item>@string/status_unknown</item>
+        <item>@string/status_ordered</item>
+        <item>@string/status_delivered</item>
+        <item>@string/status_recieved</item>
+    </string-array>
+</resources>
